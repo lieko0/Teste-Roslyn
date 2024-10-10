@@ -1,0 +1,11 @@
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/bin/Debug/net8.0/Analyzers1.Sample.deps.json
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/bin/Debug/net8.0/Analyzers1.Sample.dll
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/bin/Debug/net8.0/Analyzers1.Sample.pdb
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.AssemblyInfoInputs.cache
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.AssemblyInfo.cs
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.csproj.CoreCompileInputs.cache
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.dll
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/refint/Analyzers1.Sample.dll
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.pdb
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/ref/Analyzers1.Sample.dll
