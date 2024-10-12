@@ -15,11 +15,17 @@ namespace DynamicAnalyzer
         private static void Main()
         {
             LongTask();
+            ShortTask();
         }
     
         private static void LongTask()
         {
             Thread.Sleep(5000);
+        }
+
+        private static void ShortTask()
+        {
+            Thread.Sleep(1000);
         }
     }
 }

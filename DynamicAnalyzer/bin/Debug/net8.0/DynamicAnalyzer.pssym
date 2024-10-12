@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Symbols LinesOfCode="19" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="2024.1.6.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+<Symbols LinesOfCode="22" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="2024.1.6.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
   <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
     <Instance Declaration="#2=T:[DynamicAnalyzer]DynamicAnalyzer.Aspects.LogMethodExecutionDuration" Id="be2d0f5300008005">
       <Target />
@@ -10,8 +10,11 @@
       <Target Target="#4=M:[DynamicAnalyzer]DynamicAnalyzer.Program::LongTask()" LinesAvoided="4">
         <JoinPoint Description="#5=Wrapped by advice(s) OnEntry, OnExit" Ordinal="0" />
       </Target>
+      <Target Target="#6=M:[DynamicAnalyzer]DynamicAnalyzer.Program::ShortTask()" LinesAvoided="4">
+        <JoinPoint Description="#5" />
+      </Target>
     </Instance>
   </Class>
-  <Annotation Target="#6=M:[DynamicAnalyzer]DynamicAnalyzer.Aspects.LogMethodExecutionDuration::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#7=2" Description="#8=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
-  <Annotation Target="#9=M:[DynamicAnalyzer]DynamicAnalyzer.Aspects.LogMethodExecutionDuration::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#7" Description="#8" />
+  <Annotation Target="#7=M:[DynamicAnalyzer]DynamicAnalyzer.Aspects.LogMethodExecutionDuration::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8=2" Description="#9=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#10=M:[DynamicAnalyzer]DynamicAnalyzer.Aspects.LogMethodExecutionDuration::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
 </Symbols>

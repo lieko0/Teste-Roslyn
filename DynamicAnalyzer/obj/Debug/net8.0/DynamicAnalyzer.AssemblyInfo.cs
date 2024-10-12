@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicAnalyzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dccf131791dedaa16e391cff9399f4b28a6fde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d607ad868855e2fed76fd8386d8e797b27b39680")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicAnalyzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicAnalyzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
