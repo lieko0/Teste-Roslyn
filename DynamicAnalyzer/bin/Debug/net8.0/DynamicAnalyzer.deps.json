@@ -1,0 +1,116 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DynamicAnalyzer/1.0.0": {
+        "dependencies": {
+          "PostSharp.Patterns.Common": "2024.1.6",
+          "PostSharp.Patterns.Diagnostics": "2024.1.6"
+        },
+        "runtime": {
+          "DynamicAnalyzer.dll": {}
+        }
+      },
+      "PostSharp/2024.1.6": {
+        "dependencies": {
+          "PostSharp.Redist": "2024.1.6"
+        }
+      },
+      "PostSharp.Patterns.Common/2024.1.6": {
+        "dependencies": {
+          "PostSharp": "2024.1.6",
+          "PostSharp.Patterns.Common.Redist": "2024.1.6"
+        }
+      },
+      "PostSharp.Patterns.Common.Redist/2024.1.6": {
+        "dependencies": {
+          "PostSharp.Redist": "2024.1.6"
+        },
+        "runtime": {
+          "lib/net8.0/PostSharp.Patterns.Common.dll": {
+            "assemblyVersion": "2024.1.6.0",
+            "fileVersion": "2024.1.6.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics/2024.1.6": {
+        "dependencies": {
+          "PostSharp.Patterns.Common": "2024.1.6",
+          "PostSharp.Patterns.Diagnostics.Redist": "2024.1.6"
+        }
+      },
+      "PostSharp.Patterns.Diagnostics.Redist/2024.1.6": {
+        "dependencies": {
+          "PostSharp.Patterns.Common.Redist": "2024.1.6"
+        },
+        "runtime": {
+          "lib/net8.0/PostSharp.Patterns.Diagnostics.dll": {
+            "assemblyVersion": "2024.1.6.0",
+            "fileVersion": "2024.1.6.0"
+          }
+        }
+      },
+      "PostSharp.Redist/2024.1.6": {
+        "runtime": {
+          "lib/net8.0/PostSharp.dll": {
+            "assemblyVersion": "2024.1.6.0",
+            "fileVersion": "2024.1.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zghGz7QN67qKCha/aJOQnAUVXLnNdCzdhRMLvJC0jxeA5UuabdmTwrMfeU4b25c577jYvAuaTsFzp5/kAk6wQQ==",
+      "path": "postsharp/2024.1.6",
+      "hashPath": "postsharp.2024.1.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g+/29S54gX4xCJumwGGMQC6vrSzgq/3vJtPE2T6w/pTSSTKMBtNOWB6DcbosStznU28ZT9OcaRQvpfqKA+O97A==",
+      "path": "postsharp.patterns.common/2024.1.6",
+      "hashPath": "postsharp.patterns.common.2024.1.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common.Redist/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1ryxhGLlQiVqAZtTQM0kVVlBdoJDtF+KOBPBpM2wPlmMfgeBvEuzoaZbRsWZkyNp0IMG6jcKqNxxx6QpsC5c3g==",
+      "path": "postsharp.patterns.common.redist/2024.1.6",
+      "hashPath": "postsharp.patterns.common.redist.2024.1.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mGYQnK0JC6hFfDg94Kkqn/poPd9HJ20FGOov5prP4jT60aC7Ot8C9/wwqxHtc+RON43+E3QCxo+k2vPFcV+Paw==",
+      "path": "postsharp.patterns.diagnostics/2024.1.6",
+      "hashPath": "postsharp.patterns.diagnostics.2024.1.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics.Redist/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CnXiR+RNMBksHEfA4nAyAz9qgxrUhsqCuq4bGVSnwuj/wOG3avdRkGlN+6cYXUFyRKRjFMhta4ygbRHupixAnA==",
+      "path": "postsharp.patterns.diagnostics.redist/2024.1.6",
+      "hashPath": "postsharp.patterns.diagnostics.redist.2024.1.6.nupkg.sha512"
+    },
+    "PostSharp.Redist/2024.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SdDPPIEkgxNOhACU7mu6ehWORYpVo9OALY9xKONlC6Ao08oSiXKUAI4EYb7nQUzCv2TatK1zSny98eyKs6w75A==",
+      "path": "postsharp.redist/2024.1.6",
+      "hashPath": "postsharp.redist.2024.1.6.nupkg.sha512"
+    }
+  }
+}

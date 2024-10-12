@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "8.0.8"
+    },
+    "additionalProbingPaths": [
+      "/Users/pmontu01/.nuget/packages/",
+      "/var/tmp/postsharp/NuGetFallback"
+    ]
+  }
+}
