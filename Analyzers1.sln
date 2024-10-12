@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyzers1", "Analyzers1\An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyzers1.Sample", "Analyzers1\Analyzers1.Sample\Analyzers1.Sample.csproj", "{691F731A-DCD3-4883-9DDD-7C4D580001A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyzers1.Tests", "Analyzers1\Analyzers1.Tests\Analyzers1.Tests.csproj", "{94C84BEB-D7EF-481D-B66C-7E7C8BA332F4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{691F731A-DCD3-4883-9DDD-7C4D580001A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691F731A-DCD3-4883-9DDD-7C4D580001A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691F731A-DCD3-4883-9DDD-7C4D580001A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94C84BEB-D7EF-481D-B66C-7E7C8BA332F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94C84BEB-D7EF-481D-B66C-7E7C8BA332F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94C84BEB-D7EF-481D-B66C-7E7C8BA332F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94C84BEB-D7EF-481D-B66C-7E7C8BA332F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

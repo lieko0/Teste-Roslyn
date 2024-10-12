@@ -5,6 +5,7 @@
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.AssemblyInfoInputs.cache
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.AssemblyInfo.cs
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.csproj.CoreCompileInputs.cache
+/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.sourcelink.json
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.dll
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/refint/Analyzers1.Sample.dll
 /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/Debug/net8.0/Analyzers1.Sample.pdb

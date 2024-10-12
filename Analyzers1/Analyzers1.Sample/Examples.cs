@@ -2,18 +2,19 @@
 // ReSharper disable UnusedMember.Global
 namespace Analyzers1.Sample;
 
-// If you don't see warnings, build the Analyzers Project.
-
-public class Examples
+public class Example
 {
-    public class MyCompanyClass // Try to apply quick fix using the IDE.
-    {
-    }
 
-    public void ToStars()
+    public void TestIfStatements()
     {
-        var spaceship = new Spaceship();
-        spaceship.SetSpeed(300000000); // Invalid value, it should be highlighted.
-        spaceship.SetSpeed(42);
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                {
+                }
+            }
+        }
     }
 }
