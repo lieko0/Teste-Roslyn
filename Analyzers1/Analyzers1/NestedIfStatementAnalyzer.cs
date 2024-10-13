@@ -69,8 +69,8 @@ public class NestedIfStatementAnalyzer : DiagnosticAnalyzer
 
         foreach (var ifStatement in ifStatements)
         {
-            if (ifStatement.Ancestors().OfType<IfStatementSyntax>().Count() + 1 > MaxAllowedNestedIfStmts);
-            return true;
+            if (ifStatement.Ancestors().OfType<IfStatementSyntax>().Count() + 1 > MaxAllowedNestedIfStmts)
+                return true;
         }
 
         return false;

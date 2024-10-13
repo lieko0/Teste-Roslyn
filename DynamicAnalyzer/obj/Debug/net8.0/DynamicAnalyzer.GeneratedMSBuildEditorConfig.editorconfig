@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DynamicAnalyzer
-build_property.ProjectDir = /Users/pmontu01/RiderProjects/Analyzers1/DynamicAnalyzer/
+build_property.ProjectDir = C:\Users\marco\OneDrive\Área de Trabalho\Nova pasta\Teste-Roslyn\DynamicAnalyzer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Analyzers1.Sample
-build_property.ProjectDir = /Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/
+build_property.ProjectDir = C:\Users\marco\OneDrive\Área de Trabalho\Nova pasta\Teste-Roslyn\Analyzers1\Analyzers1.Sample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

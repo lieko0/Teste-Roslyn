@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/Analyzers1.Sample.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\Analyzers1\\Analyzers1.Sample\\Analyzers1.Sample.csproj": {}
   },
   "projects": {
-    "/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/Analyzers1.Sample.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\Analyzers1\\Analyzers1.Sample\\Analyzers1.Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/Analyzers1.Sample.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\Analyzers1\\Analyzers1.Sample\\Analyzers1.Sample.csproj",
         "projectName": "Analyzers1.Sample",
-        "projectPath": "/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/Analyzers1.Sample.csproj",
-        "packagesPath": "/Users/pmontu01/.nuget/packages/",
-        "outputPath": "/Users/pmontu01/RiderProjects/Analyzers1/Analyzers1/Analyzers1.Sample/obj/",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\Analyzers1\\Analyzers1.Sample\\Analyzers1.Sample.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\Analyzers1\\Analyzers1.Sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pmontu01/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/pmontu01/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

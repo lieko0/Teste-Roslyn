@@ -1,30 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "CcGG9ioXECI=",
+  "dgSpecHash": "G9TswwktzGg=",
   "success": true,
-  "projectFilePath": "/Users/pmontu01/RiderProjects/Analyzers1/DynamicAnalyzer/DynamicAnalyzer.csproj",
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Nova pasta\\Teste-Roslyn\\DynamicAnalyzer\\DynamicAnalyzer.csproj",
   "expectedPackageFiles": [
-    "/Users/pmontu01/.nuget/packages/postsharp/2024.1.6/postsharp.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/postsharp.patterns.common/2024.1.6/postsharp.patterns.common.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/postsharp.patterns.common.redist/2024.1.6/postsharp.patterns.common.redist.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/postsharp.patterns.diagnostics/2024.1.6/postsharp.patterns.diagnostics.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/postsharp.patterns.diagnostics.redist/2024.1.6/postsharp.patterns.diagnostics.redist.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/postsharp.redist/2024.1.6/postsharp.redist.2024.1.6.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.20/microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.windowsdesktop.app.ref/6.0.33/microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.windowsdesktop.app.ref/5.0.0/microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.windowsdesktop.app.ref/3.1.0/microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.windowsdesktop.app.ref/3.0.0/microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "/Users/pmontu01/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp\\2024.1.6\\postsharp.2024.1.6.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp.patterns.common\\2024.1.6\\postsharp.patterns.common.2024.1.6.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp.patterns.common.redist\\2024.1.6\\postsharp.patterns.common.redist.2024.1.6.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp.patterns.diagnostics\\2024.1.6\\postsharp.patterns.diagnostics.2024.1.6.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp.patterns.diagnostics.redist\\2024.1.6\\postsharp.patterns.diagnostics.redist.2024.1.6.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\postsharp.redist\\2024.1.6\\postsharp.redist.2024.1.6.nupkg.sha512"
   ],
   "logs": []
 }
